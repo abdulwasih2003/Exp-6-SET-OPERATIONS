@@ -1,16 +1,18 @@
 # Exp-6 SET OPERATIONS.
-## AIM:
+## Aim:
 To write a sql query to perform set operations on two tables.
-## PROCEDURE:
-### STEP 1:
-create database SET_OPERATION.
-### STEP 2:
-create table A,B.
-### STEP 3:
+## Algorithm:
+### Step 1:
+Create database SET_OPERATION.
+### Step 2:
+Create table A,B.
+### Step 3:
 Insert Value to the tables.
-### STEP 4:
+### Step 4:
 Perform Set operations like Union,Union all,Intersect,Except.
-## PROGRAM:
+### Step 5:
+Display the result.
+## Program:
 ```sql
 CREATE DATABASE SET_OPERATION;
 SHOW DATABASES;
@@ -63,5 +65,5 @@ SELECT * FROM B;
 ![image](https://github.com/Karthikeyan21001828/DBMS_EX06/assets/93427303/de1b03d4-220f-4229-aa9c-15fd33e4ac64)
 
 
-## RESULT:
+## Result:
 A sql query to perform set operations on two tables has been executed.
